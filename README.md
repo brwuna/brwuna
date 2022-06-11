@@ -1,4 +1,4 @@
-### Olá! Eu sou a Bruna 👋
+### Olá! Meu nome é Bruna. 👋
 
 - 🔭 Formada em Biomedicina e fazendo transição de carreira
 - 🌱 Estou estudando JavaScript
