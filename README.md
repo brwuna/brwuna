@@ -1,7 +1,7 @@
-### Olá! Meu nome é Bruna. 👋
+### Olá! Meu nome é Bruna. 😉
 
-- 🔭 Formada em Biomedicina e fazendo transição de carreira
-- 🌱 Estou estudando JavaScript
+- 👩🏻‍🎓 sou formada em Biomedicina e atualmente estou fazendo minha transição de carreira
+- 💙 aspiring Front-End developer.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
