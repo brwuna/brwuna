@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Bruna. 😉
 
 - 👩🏻‍🎓 sou formada em Biomedicina e atualmente estou fazendo minha transição de carreira
-- 💙 aspiring Front-End developer.
+- 💙 aspiring Full Stack developer.
 - 😄 Pronouns: ela/dela
 
 ##
